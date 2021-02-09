@@ -2,7 +2,7 @@
 
 Deon de Jager, Cindy Harper, Paulette Bloomer
 
-PLoS One 15, e0236717, doi:10.1371/journal.pone.0236717 (2020)
+PLoS One 15, e0236717, [doi:10.1371/journal.pone.0236717](https://doi.org/10.1371/journal.pone.0236717) (2020)
 
 # Summary
 Contains the R scripts and necessary input files used for drawing the figures and conducting the DAPC analysis for this manuscript.
