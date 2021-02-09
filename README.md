@@ -12,3 +12,5 @@ I use RStudio for all my R-related work: https://rstudio.com/products/rstudio/do
 Figs 2, 3, and 4 were constructed using ggplot2 v3.3.0.
 
 Fig 1 and S1 Fig were constructed using base R graphics.
+
+Please feel free to contact me (email on profile page) if you have any questions.
